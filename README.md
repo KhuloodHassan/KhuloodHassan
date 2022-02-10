@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @KhuloodHassan
-- 👀 I’m interested in shifting my career to Software Development
-- 🌱 I’m currently learning Python & JavaScript
-- 💞️ I’m looking to collaborate on a game sometime in the future.
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: Instagram: @kaybletv - Discord: Kay#6132
 
 <!---
