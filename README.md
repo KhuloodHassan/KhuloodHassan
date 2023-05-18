@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Kay
+<h1 align="center">Hi there 👋, I'm Kay</h1>
+<hr>
 
 # 💫 About Me:
 🔭 I’m currently working on **EchoAI**<br>🌱 I’m currently learning **React**<br>👯 I’m looking to collaborate on **open source projects that make a difference**<br>👨‍💻 All of my projects are available at [https://kaycreativestudio.netlify.app/](https://kaycreativestudio.netlify.app/)<br>💬 Ask me about **UsTwo**<br>📫 How to reach me **kaycreativestudio@hotmail.com**<br>⚡ Fun fact **I laugh a lot**
